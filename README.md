@@ -1,2 +1,5 @@
-# mambo-5
-barcode scanner
+## run locally
+```
+npm install -g http-server
+http-server
+```
